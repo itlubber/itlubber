@@ -9,15 +9,10 @@
 
 
 - 🔭 I’m currently working on [UniDT](http://www.unidt.com/)
-
 - 🌱 I’m currently learning **python, go, vue, pytorch, nlp, cv and so on**
-
 - 👨‍💻 All of my projects are available at [https://github.com/itlubber](https://github.com/itlubber)
-
-- 📝 I regularly write articles on [https://itlubber.art](https://itlubber.art) and [https://itlubber.gitee.io](https://itlubber.gitee.io)
-
+- 📝 My blog [https://itlubber.art](https://itlubber.art) and [https://itlubber.gitee.io](https://itlubber.gitee.io)
 - 📫 How to reach me **itlubber@gmail.com**
-
 - ⚡ Fun fact **QaQ**
 
 <br>
