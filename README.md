@@ -53,4 +53,4 @@
 <br>
 
 <p>&nbsp;<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" alt="itlubber" /></p>
-<p>&nbsp;<img  width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" alt="itlubber" /></p>
+<p>&nbsp;<img  width="48%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" alt="itlubber" /></p>
