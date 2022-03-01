@@ -5,7 +5,7 @@
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itlubber&show_icons=true&locale=en&layout=compact" alt="itlubber" /></p>
 
 - 🔭 I’m currently working on [UniDT](http://www.unidt.com/)
-- 🌱 I’m currently learning **python, go, vue, pytorch, nlp, cv and so on**
+- 🌱 I’m currently learning **python, go, vue and so on**
 - 👨‍💻 All of my projects are available at [https://github.com/itlubber](https://github.com/itlubber)
 - 📝 My blog [https://itlubber.art](https://itlubber.art) and [https://itlubber.gitee.io](https://itlubber.gitee.io)
 - 📫 How to reach me **itlubber@gmail.com**
