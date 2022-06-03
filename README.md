@@ -2,7 +2,7 @@
 
 <h3 align="center">A data analyst from China</h3>
 
-<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itlubber&show_icons=true&locale=en&layout=compact" alt="itlubber" /></p>
+<img align="right" alt="Coding Work" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently working on [UniDT](http://www.unidt.com/)
 - 🌱 I’m currently learning **python, go, vue and so on**
@@ -52,5 +52,6 @@
 
 <br>
 
+<p>&nbsp;<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itlubber&show_icons=true&locale=en&layout=compact" alt="itlubber" /></p>
 <p>&nbsp;<img  width="60%"align="center" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" alt="itlubber" /></p>
 <p>&nbsp;<img  width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" alt="itlubber" /></p>
