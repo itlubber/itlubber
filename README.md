@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [UniDT](http://www.unidt.com/)
 - 🌱 I’m currently learning **python, go, vue and so on**
 - 👨‍💻 All of my projects are available at [https://github.com/itlubber](https://github.com/itlubber)
-- 📝 My blog [https://itlubber.art](https://itlubber.art) and [https://itlubber.gitee.io](https://itlubber.gitee.io)
+- 📝 My blog [https://itlubber.art](https://itlubber.art)
 - 📫 How to reach me itlubber@qq.com
 - ⚡ Fun fact **QaQ**
 
