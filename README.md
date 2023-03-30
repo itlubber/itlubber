@@ -58,5 +58,5 @@
 
 
 <a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" height="192px"/></a>
+<a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" height="192px"/></a>
 
-<img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" alt="itlubber" />
