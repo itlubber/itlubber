@@ -56,6 +56,6 @@
 
 <br>
 
-<p>&nbsp;<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itlubber&show_icons=true&locale=en&layout=compact" alt="itlubber" /></p>
-<p>&nbsp;<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" alt="itlubber" /></p>
-<p>&nbsp;<img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" alt="itlubber" /></p>
+
+<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" alt="itlubber" />
+<img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" alt="itlubber" />
