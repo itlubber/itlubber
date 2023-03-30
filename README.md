@@ -6,9 +6,6 @@
 
 <img align="right" alt="Coding Work" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<br>
-<br>
-<br>
 
 - 🔭 I’m currently working on ~~[UniDT](http://www.unidt.com/)~~ [Geex Finance](https://www.geexfinance.com/)
 - 🌱 I’m currently learning **python, go, vue and so on**
