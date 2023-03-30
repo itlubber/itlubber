@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">languages and tools:</h3>
 
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -57,6 +57,7 @@
 <br>
 
 
+<h4 align="left">github stats:</h3>
 <a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" height="192px"/></a>
 <a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" height="192px"/></a>
 
