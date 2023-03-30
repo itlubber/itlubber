@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm itlubber</h1>
-
-<h3 align="center">A data analyst from China</h3>
-
 <a href="https://github.com/itlubber"><img alt="itlubber.art" src="https://itlubber.art/upload/github-user-contribution.svg" width="100%"/></a>
+
+<h1 align="center">Hey 👋, I'm itlubber</h1>
+<h3 align="center">A data analyst from China</h3>
 
 <img align="right" alt="Coding Work" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
+<br><br><br>
 
 - 🔭 I’m currently working on ~~[UniDT](http://www.unidt.com/)~~ [Geex Finance](https://www.geexfinance.com/)
 - 🌱 I’m currently learning **python, go, vue and so on**
