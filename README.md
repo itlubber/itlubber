@@ -59,5 +59,5 @@
 
 <h4 align="left">github stats:</h3>
 <a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" width="40%"/></a>
-<a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" width="40%"/></a>
+<a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" width="45%"/></a>
 
