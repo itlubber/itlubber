@@ -57,5 +57,5 @@
 <br>
 
 
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" alt="itlubber" />
-<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" alt="itlubber" />
+<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en" alt="itlubber" />
+<img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&" alt="itlubber" />
