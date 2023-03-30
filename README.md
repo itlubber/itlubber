@@ -2,6 +2,8 @@
 
 <h3 align="center">A data analyst from China</h3>
 
+<a href="https://github.com/itlubber"><img alt="itlubber.art" src="https://itlubber.art/upload/github-user-contribution.svg"/></a>
+
 <img align="right" alt="Coding Work" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <br>
