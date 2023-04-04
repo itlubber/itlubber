@@ -1,4 +1,4 @@
-<a href="https://github.com/itlubber"><img alt="itlubber.art" src="https://raw.githubusercontent.com/itlubber/itlubber/main/assets/github-contribution-grid-snake.svg" width="100%"/></a>
+<div align="center"><img alt="itlubber.art" src="https://raw.githubusercontent.com/itlubber/itlubber/main/assets/github-contribution-grid-snake.svg" width="100%"/></div>
 
 <h1 align="center">Hey 👋, I'm itlubber</h1>
 <h3 align="center">A data analyst from China</h3>
