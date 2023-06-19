@@ -55,6 +55,12 @@
 
 <br>
 
+<style>
+#user-content-github-stats {
+  display: flex;
+}
+</style>
+
 <h4 align="left">github stats:</h3>
 <div id="github-stats" display="flex">
     <a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en"/></a>
