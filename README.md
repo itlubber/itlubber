@@ -56,7 +56,7 @@
 <br>
 
 <h4 align="left">github stats:</h3>
-<div id="github-stats">
+<div id="github-stats" style="display: flex;">
     <a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-stats.vercel.app/api?username=itlubber&show_icons=true&locale=en"/></a>
     <a href="https://github.com/itlubber"><img alt="itlubber" src="https://github-readme-streak-stats.herokuapp.com/?user=itlubber&"/></a>
 </div>
